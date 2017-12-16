@@ -1,0 +1,20 @@
+.admintitle{
+	background-color: #193663;
+	color: #fff;
+	margin: 0px 50px ;
+	height: 140px;
+	line-height: 140px;
+
+}
+.dashboard{
+	background-color: #346dc9;
+	color: #fff;
+	text-align: center;
+	margin: 0px 50px ;
+	height: 140px;
+	font-size: 25px;
+	text-decoration: none;
+}
+a{
+	color: #fff;
+}
